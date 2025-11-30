@@ -1,6 +1,8 @@
 # TaskFocus
 Task Management App
-TaskBuddy is a React-based task management application that will:
+
+
+TaskFocus is a React-based task management application that will:
 
 Add, delete, and mark tasks as complete: A dynamic task list that updates as you interact with it.
 
@@ -10,12 +12,11 @@ Responsive design: The app will adapt to different screen sizes, ensuring a smoo
 
 Additional features: Filtering tasks, clearing all tasks, and validating input to ensure data integrity.
 
-Live deployment: By the end, you’ll deploy the app to platforms like GitHub Pages or Netlify, making it accessible to everyone.
 
 
 
 Requirements for TaskBuddy Project 📝
-Name: TaskBuddy
+Name: TaskFocus
 Type: Task Management Application
 
 
